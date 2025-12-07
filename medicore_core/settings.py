@@ -51,7 +51,6 @@ INSTALLED_APPS = [
     # YOU MUST ADD THESE:
     'accounts',
     'landing',
-    'dashboard',
     'patients',   # <--- This is the missing link!
     'payments',
     'gemmacare',
